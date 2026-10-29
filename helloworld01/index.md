@@ -1,18 +1,16 @@
 ---
 myst:
   html_meta:
-    description: "Think Python, 3rd edition, free online: an introduction to Python for beginners, as Jupyter notebooks you can run on Colab with nothing to install."
-og:description: "Think Python, 3rd edition, free online: an introduction to Python for beginners, as Jupyter notebooks you can run on Colab with nothing to install."
+    description: "Энэхүү номыг app ашиглан унших боломжтой бөгөөд Jupyter Notebook хэлбэрээр бэлтгэсэн тул ямар нэгэн програм суулгах шаардлагагүйгээр Google Colab орчинд кодыг шууд ажиллуулж, туршиж үзэх боломжтой."
+og:description: "Энэхүү номыг app ашиглан унших боломжтой бөгөөд Jupyter Notebook хэлбэрээр бэлтгэсэн тул ямар нэгэн програм суулгах шаардлагагүйгээр Google Colab орчинд кодыг шууд ажиллуулж, туршиж үзэх боломжтой."
 ---
 
-# Think Python, 3rd edition
+# HelloWorld, 01. Python програмчлалын үндэс
 
-*Think Python* is an introduction to Python for people who have never programmed before -- or for people who have tried and had a hard time.
-You can order print and ebook versions of the third edition from
-[Bookshop.org](https://bookshop.org/a/98697/9781098155438) and
-[Amazon](https://www.amazon.com/_/dp/1098155432?smid=ATVPDKIKX0DER&_encoding=UTF8&tag=greenteapre01-20&linkCode=ur2&linkId=e2a529f94920295d27ec8a06e757dc7c&camp=1789&creative=9325).
+*HelloWorld, 01. Python програмчлалын үндэс* нь өмнө нь огт програмчилж байгаагүй анхлан суралцагчид, мөн програмчлал сурахыг оролдсон боловч хүндрэлтэй тулгарч байсан хүмүүст зориулсан Python програмчлалын удиртгал ном юм..
 
-<img width="250" src="https://raw.githubusercontent.com/AllenDowney/ThinkPython/v3/think_python_3e.jpg" style="float: right; margin-left: 10px;">
+
+<img width="250" src="./_static/cover.png">
 
  [Here is the landing page for the book at Green Tea Press](https://greenteapress.com/wp/think-python-3rd-edition/).
 
