@@ -28,97 +28,60 @@ For the third edition, the biggest changes are:
 
 ## The notebooks
 
-**Chapter 1: Programming as a way of thinking**
+**Бүлэг 1: Programming as a way of thinking**
 
-* [Click here to run Chapter 1 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap01.ipynb)
-
-
-**Chapter 2: Variables and Statements**
-
-* [Click here to run Chapter 2 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap02.ipynb)
+* [Click here to run Chapter 1 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap01.ipynb)
 
 
-**Chapter 3: Functions**
+**Бүлэг 2: Variables and Statements**
 
-* [Click here to run Chapter 3 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap03.ipynb)
-
-
-**Chapter 4: Functions and Interfaces**
-
-* [Click here to run Chapter 4 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap04.ipynb)
+* [Click here to run Chapter 2 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap02.ipynb)
 
 
-**Chapter 5: Conditionals and Recursion**
+**Бүлэг 3: Functions**
 
-* [Click here to run Chapter 5 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap05.ipynb)
-
-**Chapter 6: Return Values**
-
-* [Click here to run Chapter 6 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap06.ipynb)
-
-**Chapter 7: Iteration and Search**
-
-* [Click here to run Chapter 7 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap07.ipynb)
-
-**Chapter 8: Strings and Regular Expressions**
-
-* [Click here to run Chapter 8 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap08.ipynb)
-
-**Chapter 9: Lists**
-
-* [Click here to run Chapter 9 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap09.ipynb)
-
-**Chapter 10: Dictionaries**
-
-* [Click here to run Chapter 10 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap10.ipynb)
-
-**Chapter 11: Tuples**
-
-* [Click here to run Chapter 11 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap11.ipynb)
-
-**Chapter 12: Text Analysis and Generation**
-
-* [Click here to run Chapter 12 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap12.ipynb)
-
-**Chapter 13: Files and Databases**
-
-* [Click here to run Chapter 13 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap13.ipynb)
-
-**Chapter 14: Classes and Functions**
-
-* [Click here to run Chapter 14 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap14.ipynb)
-
-**Chapter 15: Classes and Methods**
-
-* [Click here to run Chapter 15 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap15.ipynb)
-
-**Chapter 16: Classes and Objects**
-
-* [Click here to run Chapter 16 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap16.ipynb)
-
-**Chapter 17: Inheritance**
-
-* [Click here to run Chapter 17 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap17.ipynb)
-
-**Chapter 18: Python Extras**
-
-* [Click here to run Chapter 18 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap18.ipynb)
-
-**Chapter 19: Final Thoughts**
-
-* [Click here to run Chapter 19 on Colab](https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap19.ipynb)
+* [Click here to run Chapter 3 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap03.ipynb)
 
 
-## Resources for teachers
+**Бүлэг 4: Functions and Interfaces**
 
-If you are teaching with this book, here are some resources you might find useful.
+* [Click here to run Chapter 4 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap04.ipynb)
 
-* You can download notebooks with solutions from [this GitHub repository](https://github.com/AllenDowney/ThinkPythonSolutions/tree/v3/soln).
 
-* Quizzes for each chapter, and a summative quiz for the whole book, are available on request.
+**Бүлэг 5: Conditionals and Recursion**
 
-* *Teaching and Learning with Jupyter* is an online book with suggestions for using Jupyter effectively in the classroom. You can [read the book here](https://jupyter4edu.github.io/jupyter-edu-book).
+* [Click here to run Chapter 5 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap05.ipynb)
 
-* One of the best ways to use notebooks in the classroom is live coding, where an instructor writes code and students follow along in their own notebooks. To learn about live coding -- and a lot of other great advice about teaching programming -- I recommend the teacher training provided by The Carpentries, [which you can read here](https://carpentries.github.io/instructor-training).
+**Бүлэг 6: Return Values**
 
-* For each chapter, I've created a "blank" notebook with the original text, but most of the code removed. These notebooks are useful for doing follow-along exercises where learners fill in the blanks. [Links to the blank notebooks are here](https://allendowney.github.io/ThinkPython/blank.html).
+* [Click here to run Chapter 6 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap06.ipynb)
+
+**Бүлэг 7: Iteration and Search**
+
+* [Click here to run Chapter 7 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap07.ipynb)
+
+**Бүлэг 8: Strings and Regular Expressions**
+
+* [Click here to run Chapter 8 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap08.ipynb)
+
+**Бүлэг 9: Lists**
+
+* [Click here to run Chapter 9 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap09.ipynb)
+
+**Бүлэг 10: Dictionaries**
+
+* [Click here to run Chapter 10 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap10.ipynb)
+
+**Бүлэг 11: Tuples**
+
+* [Click here to run Chapter 11 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap11.ipynb)
+
+**Бүлэг 12: Text Analysis and Generation**
+
+* [Click here to run Chapter 12 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap12.ipynb)
+
+**Бүлэг 13: Files and Databases**
+
+* [Click here to run Chapter 13 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap13.ipynb)
+
+
