@@ -28,60 +28,60 @@ For the third edition, the biggest changes are:
 
 ## The notebooks
 
-**Бүлэг 1: Programming as a way of thinking**
+**Бүлэг 1: Програмчлал бол сэтгэн бодох арга юм**
 
-* [Click here to run Chapter 1 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap01.ipynb)
-
-
-**Бүлэг 2: Variables and Statements**
-
-* [Click here to run Chapter 2 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap02.ipynb)
+* [Google Colab дээр 1-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap01.ipynb)
 
 
-**Бүлэг 3: Functions**
+**Бүлэг 2: Хувьсагч ба зааврууд**
 
-* [Click here to run Chapter 3 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap03.ipynb)
-
-
-**Бүлэг 4: Functions and Interfaces**
-
-* [Click here to run Chapter 4 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap04.ipynb)
+* [Google Colab дээр 2-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap02.ipynb)
 
 
-**Бүлэг 5: Conditionals and Recursion**
+**Бүлэг 3: Функцүүд**
 
-* [Click here to run Chapter 5 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap05.ipynb)
+* [Google Colab дээр 3-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap03.ipynb)
 
-**Бүлэг 6: Return Values**
 
-* [Click here to run Chapter 6 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap06.ipynb)
+**Бүлэг 4: Функцүүд ба интерфейсүүд**
 
-**Бүлэг 7: Iteration and Search**
+* [Google Colab дээр 4-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap04.ipynb)
 
-* [Click here to run Chapter 7 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap07.ipynb)
 
-**Бүлэг 8: Strings and Regular Expressions**
+**Бүлэг 5: Нөхцөлт илэрхийлэл ба рекурс**
 
-* [Click here to run Chapter 8 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap08.ipynb)
+* [Google Colab дээр 5-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap05.ipynb)
 
-**Бүлэг 9: Lists**
+**Бүлэг 6: Буцаах утгууд**
 
-* [Click here to run Chapter 9 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap09.ipynb)
+* [Google Colab дээр 6-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap06.ipynb)
 
-**Бүлэг 10: Dictionaries**
+**Бүлэг 7: Давталт ба хайлт**
 
-* [Click here to run Chapter 10 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap10.ipynb)
+* [Google Colab дээр 7-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap07.ipynb)
 
-**Бүлэг 11: Tuples**
+**Бүлэг 8: Тэмдэгт мөр ба регуляр илэрхийлэл**
 
-* [Click here to run Chapter 11 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap11.ipynb)
+* [Google Colab дээр 8-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap08.ipynb)
 
-**Бүлэг 12: Text Analysis and Generation**
+**Бүлэг 9: Жагсаалтууд**
 
-* [Click here to run Chapter 12 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap12.ipynb)
+* [Google Colab дээр 9-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap09.ipynb)
 
-**Бүлэг 13: Files and Databases**
+**Бүлэг 10: Dict төрөл**
 
-* [Click here to run Chapter 13 on Colab](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap13.ipynb)
+* [Google Colab дээр 10-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap10.ipynb)
+
+**Бүлэг 11: Кортеж буюу tuple төрөл**
+
+* [Google Colab дээр 11-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap11.ipynb)
+
+**Бүлэг 12: Текстийн шинжилгээ ба үүсгэлт**
+
+* [Google Colab дээр 12-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap12.ipynb)
+
+**Бүлэг 13: Файл ба өгөгдлийн сан**
+
+* [Google Colab дээр 13-р бүлгийн кодыг ажиллуулахын тулд энд дарна уу.](https://colab.research.google.com/github/lnxmrneo/lnxmrneo.github.io/blob/main/бүлгүүд/chap13.ipynb)
 
 
